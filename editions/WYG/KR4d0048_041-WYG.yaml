@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0048/WYG/v1/juan/41
+seq: 41
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0048_WYG_041-1a, image: WYG1096/WYG1096-0801c.png}
+body:
+  text: 丹淵集拾遺卷上宋文同
+  hash: sha256:3d4e249f374d96b8bf5c19a907ee179088b71e7ae7aaccd245140d945ee0aa62
+metadata:
+  title: 陳眉公先生訂正丹淵集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 09:06:10.365395'
+  source:
+    repository: kanripo
+    path: KR4d0048/KR4d0048_041.txt
+hash: sha256:7ddce2c2b33d85c76ded5caf4cebb53ace8a322bc391cebcd7e60a9e71de4645

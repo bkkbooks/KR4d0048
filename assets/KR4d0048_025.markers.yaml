@@ -1,0 +1,977 @@
+canonical_identifier: bkk:krp/KR4d0048/bkk/v1/markers/25
+seq: 25
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4d0048_SBCK_025-1a01}
+  - {type: variant, offset: 0, length: 7, content: 陳眉公先生訂正, WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR4d0048_WYG_025-1a, image: WYG1096/WYG1096-0703a.png}
+  - {type: variant, offset: 10, length: 1, content: 卷, WYG: 巻}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4d0048_SBCK_025-1a02}
+  - {type: indent, offset: 0, content: 　　　　, id: KR4d0048_krp_025-bkkind1}
+  - {type: indent, offset: 1, content: 　, id: KR4d0048_krp_025-bkkind2}
+  - {type: variant, offset: 1, length: 1, content: 蜀, WYG: ''}
+  - {type: indent, offset: 2, content: 　, id: KR4d0048_krp_025-bkkind3}
+  - {type: indent, offset: 3, content: 　, id: KR4d0048_krp_025-bkkind4}
+  - {type: variant, offset: 4, length: 2, content: 與可, WYG: ''}
+  - {type: indent, offset: 6, content: 　, id: KR4d0048_krp_025-bkkind5}
+  - {type: 'kr:newline', offset: 7, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl2}
+  - {type: line-break, offset: 7, content: '', id: KR4d0048_SBCK_025-1a03}
+  - {type: indent, offset: 7, content: 　　　　, id: KR4d0048_krp_025-bkkind6}
+  - {type: variant, offset: 7, length: 20, content: 明吳毛晉子晉蜀李應魁務滋同叅吳吳一標建先, WYG: ''}
+  - {type: indent, offset: 8, content: 　, id: KR4d0048_krp_025-bkkind7}
+  - {type: indent, offset: 9, content: 　, id: KR4d0048_krp_025-bkkind8}
+  - {type: indent, offset: 10, content: 　, id: KR4d0048_krp_025-bkkind9}
+  - {type: 'kr:newline', offset: 13, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl3}
+  - {type: line-break, offset: 13, content: '', id: KR4d0048_SBCK_025-1a04}
+  - {type: indent, offset: 13, content: 　　　　　　　, id: KR4d0048_krp_025-bkkind10}
+  - {type: indent, offset: 14, content: 　, id: KR4d0048_krp_025-bkkind11}
+  - {type: 'kr:newline', offset: 21, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl4}
+  - {type: line-break, offset: 21, content: '', id: KR4d0048_SBCK_025-1a05}
+  - {type: indent, offset: 21, content: 　　　　　　　, id: KR4d0048_krp_025-bkkind12}
+  - {type: indent, offset: 22, content: 　, id: KR4d0048_krp_025-bkkind13}
+  - {type: 'kr:newline', offset: 27, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl5}
+  - {type: line-break, offset: 27, content: '', id: KR4d0048_SBCK_025-1a06}
+  - {type: indent, offset: 27, content: 　　, id: KR4d0048_krp_025-bkkind14}
+  - {type: 'kr:newline', offset: 28, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl6}
+  - {type: line-break, offset: 28, content: '', id: KR4d0048_SBCK_025-1a07}
+  - {type: indent, offset: 28, content: 　　　, id: KR4d0048_krp_025-bkkind15}
+  - {type: 'kr:newline', offset: 34, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl7}
+  - {type: line-break, offset: 34, content: '', id: KR4d0048_SBCK_025-1a08}
+  - {type: 'kr:newline', offset: 52, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl8}
+  - {type: line-break, offset: 52, content: '', id: KR4d0048_SBCK_025-1a09}
+  - {type: 'kr:newline', offset: 70, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl9}
+  - {type: page-break, offset: 70, content: '', id: KR4d0048_SBCK_025-1b}
+  - {type: 'kr:newline', offset: 70, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl10}
+  - {type: line-break, offset: 70, content: '', id: KR4d0048_SBCK_025-1b01}
+  - {type: variant, offset: 82, length: 1, content: 負, SBCK: 􅀒}
+  - {type: 'kr:newline', offset: 88, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl11}
+  - {type: line-break, offset: 88, content: '', id: KR4d0048_SBCK_025-1b02}
+  - {type: variant, offset: 95, length: 1, content: 冝, WYG: 宜}
+  - {type: 'kr:newline', offset: 106, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl12}
+  - {type: line-break, offset: 106, content: '', id: KR4d0048_SBCK_025-1b03}
+  - {type: variant, offset: 111, length: 1, content: 巳, WYG: 已}
+  - {type: page-break, offset: 118, content: '', id: KR4d0048_WYG_025-1b, image: WYG1096/WYG1096-0703b.png}
+  - {type: 'kr:newline', offset: 124, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl13}
+  - {type: line-break, offset: 124, content: '', id: KR4d0048_SBCK_025-1b04}
+  - {type: variant, offset: 137, length: 1, content: 獲, SBCK: 􅀗}
+  - {type: 'kr:newline', offset: 142, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl14}
+  - {type: line-break, offset: 142, content: '', id: KR4d0048_SBCK_025-1b05}
+  - {type: variant, offset: 143, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 145, length: 1, content: 衷, SBCK: 􅂨}
+  - {type: variant, offset: 145, length: 1, content: 衷, WYG: 𠂻}
+  - {type: variant, offset: 147, length: 1, content: 略, WYG: 畧}
+  - {type: variant, offset: 151, length: 1, content: 卑, SBCK: 􅂌}
+  - {type: variant, offset: 151, length: 1, content: 卑, WYG: 畀}
+  - {type: 'kr:newline', offset: 160, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl15}
+  - {type: line-break, offset: 160, content: '', id: KR4d0048_SBCK_025-1b06}
+  - {type: variant, offset: 165, length: 1, content: 𬒳, SBCK: 􅀍}
+  - {type: variant, offset: 165, length: 1, content: 𬒳, WYG: 被}
+  - {type: variant, offset: 167, length: 1, content: 錫, SBCK: 􅃬}
+  - {type: 'kr:newline', offset: 178, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl16}
+  - {type: line-break, offset: 178, content: '', id: KR4d0048_SBCK_025-1b07}
+  - {type: 'kr:newline', offset: 196, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl17}
+  - {type: line-break, offset: 196, content: '', id: KR4d0048_SBCK_025-1b08}
+  - {type: variant, offset: 208, length: 1, content: 寶, WYG: 寳}
+  - {type: 'kr:newline', offset: 214, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl18}
+  - {type: line-break, offset: 214, content: '', id: KR4d0048_SBCK_025-1b09}
+  - {type: variant, offset: 216, length: 1, content: 寶, WYG: 寳}
+  - {type: 'kr:newline', offset: 232, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl19}
+  - {type: page-break, offset: 232, content: '', id: KR4d0048_SBCK_025-2a}
+  - {type: 'kr:newline', offset: 232, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl20}
+  - {type: line-break, offset: 232, content: '', id: KR4d0048_SBCK_025-2a01}
+  - {type: variant, offset: 238, length: 1, content: 鳳, WYG: 鳯}
+  - {type: 'kr:newline', offset: 250, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl21}
+  - {type: line-break, offset: 250, content: '', id: KR4d0048_SBCK_025-2a02}
+  - {type: 'kr:newline', offset: 268, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl22}
+  - {type: line-break, offset: 268, content: '', id: KR4d0048_SBCK_025-2a03}
+  - {type: variant, offset: 280, length: 1, content: 懷, WYG: 懐}
+  - {type: 'kr:newline', offset: 286, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl23}
+  - {type: line-break, offset: 286, content: '', id: KR4d0048_SBCK_025-2a04}
+  - {type: page-break, offset: 286, content: '', id: KR4d0048_WYG_025-2a, image: WYG1096/WYG1096-0704a.png}
+  - {type: variant, offset: 290, length: 1, content: 點, SBCK: 􅀧}
+  - {type: variant, offset: 290, length: 1, content: 點, WYG: 㸃}
+  - {type: variant, offset: 295, length: 1, content: 壓, SBCK: 􅎹}
+  - {type: variant, offset: 297, length: 1, content: 寶, WYG: 寳}
+  - {type: variant, offset: 298, length: 1, content: 畫, SBCK: 􅀞}
+  - {type: 'kr:newline', offset: 304, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl24}
+  - {type: line-break, offset: 304, content: '', id: KR4d0048_SBCK_025-2a05}
+  - {type: 'kr:newline', offset: 322, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl25}
+  - {type: line-break, offset: 322, content: '', id: KR4d0048_SBCK_025-2a06}
+  - {type: 'kr:newline', offset: 340, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl26}
+  - {type: line-break, offset: 340, content: '', id: KR4d0048_SBCK_025-2a07}
+  - {type: variant, offset: 341, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 358, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl27}
+  - {type: line-break, offset: 358, content: '', id: KR4d0048_SBCK_025-2a08}
+  - {type: 'kr:newline', offset: 376, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl28}
+  - {type: line-break, offset: 376, content: '', id: KR4d0048_SBCK_025-2a09}
+  - {type: variant, offset: 393, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 394, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl29}
+  - {type: page-break, offset: 394, content: '', id: KR4d0048_SBCK_025-2b}
+  - {type: 'kr:newline', offset: 394, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl30}
+  - {type: line-break, offset: 394, content: '', id: KR4d0048_SBCK_025-2b01}
+  - {type: variant, offset: 405, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 412, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl31}
+  - {type: line-break, offset: 412, content: '', id: KR4d0048_SBCK_025-2b02}
+  - {type: 'kr:newline', offset: 413, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl32}
+  - {type: line-break, offset: 413, content: '', id: KR4d0048_SBCK_025-2b03}
+  - {type: indent, offset: 413, content: 　　　, id: KR4d0048_krp_025-bkkind16}
+  - {type: 'kr:newline', offset: 417, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl33}
+  - {type: line-break, offset: 417, content: '', id: KR4d0048_SBCK_025-2b04}
+  - {type: page-break, offset: 417, content: '', id: KR4d0048_WYG_025-2b, image: WYG1096/WYG1096-0704b.png}
+  - {type: variant, offset: 425, length: 1, content: 乆, WYG: 久}
+  - {type: 'kr:newline', offset: 435, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl34}
+  - {type: line-break, offset: 435, content: '', id: KR4d0048_SBCK_025-2b05}
+  - {type: variant, offset: 435, length: 1, content: 甞, WYG: 嘗}
+  - {type: variant, offset: 437, length: 1, content: 艶, WYG: 艷}
+  - {type: 'kr:newline', offset: 453, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl35}
+  - {type: line-break, offset: 453, content: '', id: KR4d0048_SBCK_025-2b06}
+  - {type: 'kr:newline', offset: 471, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl36}
+  - {type: line-break, offset: 471, content: '', id: KR4d0048_SBCK_025-2b07}
+  - {type: variant, offset: 481, length: 1, content: 類, SBCK: 􅀋}
+  - {type: 'kr:newline', offset: 489, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl37}
+  - {type: line-break, offset: 489, content: '', id: KR4d0048_SBCK_025-2b08}
+  - {type: 'kr:newline', offset: 507, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl38}
+  - {type: line-break, offset: 507, content: '', id: KR4d0048_SBCK_025-2b09}
+  - {type: variant, offset: 507, length: 1, content: 敎, WYG: 教}
+  - {type: variant, offset: 508, length: 1, content: 冐, WYG: 冒}
+  - {type: variant, offset: 512, length: 1, content: 巳, WYG: 已}
+  - {type: 'kr:newline', offset: 525, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl39}
+  - {type: page-break, offset: 525, content: '', id: KR4d0048_SBCK_025-3a}
+  - {type: 'kr:newline', offset: 525, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl40}
+  - {type: line-break, offset: 525, content: '', id: KR4d0048_SBCK_025-3a01}
+  - {type: variant, offset: 525, length: 1, content: 盰, WYG: 盱}
+  - {type: variant, offset: 534, length: 1, content: 巳, WYG: 已}
+  - {type: variant, offset: 535, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 542, length: 1, content: 虚, WYG: 虛}
+  - {type: 'kr:newline', offset: 543, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl41}
+  - {type: line-break, offset: 543, content: '', id: KR4d0048_SBCK_025-3a02}
+  - {type: 'kr:newline', offset: 561, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl42}
+  - {type: line-break, offset: 561, content: '', id: KR4d0048_SBCK_025-3a03}
+  - {type: variant, offset: 562, length: 1, content: 遠, WYG: 逺}
+  - {type: variant, offset: 565, length: 0, content: '', WYG: 惑}
+  - {type: variant, offset: 566, length: 1, content: 惑, WYG: ''}
+  - {type: variant, offset: 572, length: 1, content: 絕, WYG: 絶}
+  - {type: 'kr:newline', offset: 579, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl43}
+  - {type: line-break, offset: 579, content: '', id: KR4d0048_SBCK_025-3a04}
+  - {type: variant, offset: 584, length: 1, content: 隷, WYG: 𨽻}
+  - {type: page-break, offset: 585, content: '', id: KR4d0048_WYG_025-3a, image: WYG1096/WYG1096-0704c.png}
+  - {type: variant, offset: 590, length: 1, content: 冥, WYG: 㝠}
+  - {type: variant, offset: 594, length: 1, content: 脫, WYG: 脱}
+  - {type: variant, offset: 595, length: 1, content: 柰, WYG: 奈}
+  - {type: 'kr:newline', offset: 597, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl44}
+  - {type: line-break, offset: 597, content: '', id: KR4d0048_SBCK_025-3a05}
+  - {type: variant, offset: 608, length: 1, content: 尤, SBCK: 􅀹}
+  - {type: variant, offset: 609, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 615, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl45}
+  - {type: line-break, offset: 615, content: '', id: KR4d0048_SBCK_025-3a06}
+  - {type: 'kr:newline', offset: 633, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl46}
+  - {type: line-break, offset: 633, content: '', id: KR4d0048_SBCK_025-3a07}
+  - {type: variant, offset: 636, length: 1, content: 巳, WYG: 已}
+  - {type: variant, offset: 644, length: 1, content: 仞, SBCK: 􅌇}
+  - {type: 'kr:newline', offset: 651, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl47}
+  - {type: line-break, offset: 651, content: '', id: KR4d0048_SBCK_025-3a08}
+  - {type: variant, offset: 657, length: 1, content: 塗, SBCK: 􅂗}
+  - {type: 'kr:newline', offset: 669, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl48}
+  - {type: line-break, offset: 669, content: '', id: KR4d0048_SBCK_025-3a09}
+  - {type: variant, offset: 673, length: 1, content: 鼎, SBCK: 􅂦}
+  - {type: 'kr:newline', offset: 687, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl49}
+  - {type: page-break, offset: 687, content: '', id: KR4d0048_SBCK_025-3b}
+  - {type: 'kr:newline', offset: 687, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl50}
+  - {type: line-break, offset: 687, content: '', id: KR4d0048_SBCK_025-3b01}
+  - {type: 'kr:newline', offset: 705, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl51}
+  - {type: line-break, offset: 705, content: '', id: KR4d0048_SBCK_025-3b02}
+  - {type: variant, offset: 721, length: 1, content: 徳, WYG: 德}
+  - {type: 'kr:newline', offset: 723, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl52}
+  - {type: line-break, offset: 723, content: '', id: KR4d0048_SBCK_025-3b03}
+  - {type: variant, offset: 731, length: 1, content: 眞, WYG: 真}
+  - {type: variant, offset: 732, length: 1, content: 逹, WYG: 達}
+  - {type: 'kr:newline', offset: 741, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl53}
+  - {type: line-break, offset: 741, content: '', id: KR4d0048_SBCK_025-3b04}
+  - {type: variant, offset: 749, length: 1, content: 㨿, WYG: 據}
+  - {type: page-break, offset: 753, content: '', id: KR4d0048_WYG_025-3b, image: WYG1096/WYG1096-0704d.png}
+  - {type: 'kr:newline', offset: 759, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl54}
+  - {type: line-break, offset: 759, content: '', id: KR4d0048_SBCK_025-3b05}
+  - {type: variant, offset: 763, length: 1, content: 値, WYG: 值}
+  - {type: variant, offset: 764, length: 1, content: 劒, WYG: 劔}
+  - {type: 'kr:newline', offset: 777, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl55}
+  - {type: line-break, offset: 777, content: '', id: KR4d0048_SBCK_025-3b06}
+  - {type: variant, offset: 782, length: 1, content: 曵, WYG: 曳􅀈}
+  - {type: indent, offset: 783, content: 　, id: KR4d0048_krp_025-bkkind17}
+  - {type: 'kr:newline', offset: 794, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl56}
+  - {type: line-break, offset: 794, content: '', id: KR4d0048_SBCK_025-3b07}
+  - {type: variant, offset: 804, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 812, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl57}
+  - {type: line-break, offset: 812, content: '', id: KR4d0048_SBCK_025-3b08}
+  - {type: variant, offset: 822, length: 1, content: 㑹, WYG: 會}
+  - {type: variant, offset: 828, length: 1, content: 錄, WYG: 録}
+  - {type: 'kr:newline', offset: 830, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl58}
+  - {type: line-break, offset: 830, content: '', id: KR4d0048_SBCK_025-3b09}
+  - {type: variant, offset: 840, length: 1, content: 掲, WYG: 揭}
+  - {type: 'kr:newline', offset: 848, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl59}
+  - {type: page-break, offset: 848, content: '', id: KR4d0048_SBCK_025-4a}
+  - {type: 'kr:newline', offset: 848, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl60}
+  - {type: line-break, offset: 848, content: '', id: KR4d0048_SBCK_025-4a01}
+  - {type: variant, offset: 863, length: 1, content: 博, WYG: 溥}
+  - {type: 'kr:newline', offset: 866, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl61}
+  - {type: line-break, offset: 866, content: '', id: KR4d0048_SBCK_025-4a02}
+  - {type: 'kr:newline', offset: 884, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl62}
+  - {type: line-break, offset: 884, content: '', id: KR4d0048_SBCK_025-4a03}
+  - {type: variant, offset: 893, length: 1, content: 峯, SBCK: 􅄘}
+  - {type: 'kr:newline', offset: 902, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl63}
+  - {type: line-break, offset: 902, content: '', id: KR4d0048_SBCK_025-4a04}
+  - {type: variant, offset: 904, length: 1, content: 迹, WYG: 述}
+  - {type: variant, offset: 909, length: 1, content: 冩, WYG: 寫}
+  - {type: variant, offset: 915, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 918, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 920, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl64}
+  - {type: line-break, offset: 920, content: '', id: KR4d0048_SBCK_025-4a05}
+  - {type: page-break, offset: 920, content: '', id: KR4d0048_WYG_025-4a, image: WYG1096/WYG1096-0705a.png}
+  - {type: 'kr:newline', offset: 938, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl65}
+  - {type: line-break, offset: 938, content: '', id: KR4d0048_SBCK_025-4a06}
+  - {type: 'kr:newline', offset: 939, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl66}
+  - {type: line-break, offset: 939, content: '', id: KR4d0048_SBCK_025-4a07}
+  - {type: indent, offset: 939, content: 　　　, id: KR4d0048_krp_025-bkkind18}
+  - {type: variant, offset: 943, length: 0, content: '', WYG: 詩}
+  - {type: 'kr:newline', offset: 944, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl67}
+  - {type: line-break, offset: 944, content: '', id: KR4d0048_SBCK_025-4a08}
+  - {type: 'kr:newline', offset: 962, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl68}
+  - {type: line-break, offset: 962, content: '', id: KR4d0048_SBCK_025-4a09}
+  - {type: variant, offset: 964, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 980, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl69}
+  - {type: page-break, offset: 980, content: '', id: KR4d0048_SBCK_025-4b}
+  - {type: 'kr:newline', offset: 980, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl70}
+  - {type: line-break, offset: 980, content: '', id: KR4d0048_SBCK_025-4b01}
+  - {type: variant, offset: 980, length: 1, content: 內, WYG: 内}
+  - {type: 'kr:newline', offset: 998, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl71}
+  - {type: line-break, offset: 998, content: '', id: KR4d0048_SBCK_025-4b02}
+  - {type: variant, offset: 1001, length: 1, content: 尤, SBCK: 􅀹}
+  - {type: 'kr:newline', offset: 1016, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl72}
+  - {type: line-break, offset: 1016, content: '', id: KR4d0048_SBCK_025-4b03}
+  - {type: 'kr:newline', offset: 1034, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl73}
+  - {type: line-break, offset: 1034, content: '', id: KR4d0048_SBCK_025-4b04}
+  - {type: variant, offset: 1040, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 1050, length: 1, content: 類, SBCK: 􅀋}
+  - {type: 'kr:newline', offset: 1052, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl74}
+  - {type: line-break, offset: 1052, content: '', id: KR4d0048_SBCK_025-4b05}
+  - {type: variant, offset: 1052, length: 1, content: 甞, WYG: 嘗}
+  - {type: variant, offset: 1058, length: 1, content: 畫, SBCK: 􅀞}
+  - {type: 'kr:newline', offset: 1070, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl75}
+  - {type: line-break, offset: 1070, content: '', id: KR4d0048_SBCK_025-4b06}
+  - {type: page-break, offset: 1070, content: '', id: KR4d0048_WYG_025-4b, image: WYG1096/WYG1096-0705b.png}
+  - {type: variant, offset: 1081, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1088, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl76}
+  - {type: line-break, offset: 1088, content: '', id: KR4d0048_SBCK_025-4b07}
+  - {type: variant, offset: 1092, length: 1, content: 獲, SBCK: 􅀗}
+  - {type: variant, offset: 1097, length: 1, content: 虚, WYG: 虛}
+  - {type: variant, offset: 1104, length: 1, content: 歛, WYG: 斂}
+  - {type: 'kr:newline', offset: 1106, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl77}
+  - {type: line-break, offset: 1106, content: '', id: KR4d0048_SBCK_025-4b08}
+  - {type: 'kr:newline', offset: 1124, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl78}
+  - {type: line-break, offset: 1124, content: '', id: KR4d0048_SBCK_025-4b09}
+  - {type: variant, offset: 1126, length: 1, content: 巳, WYG: 已}
+  - {type: punctuation, offset: 1140, content: (, id: KR4d0048_krp_025-bkkpn1}
+  - {type: punctuation, offset: 1142, content: /, id: KR4d0048_krp_025-bkkpn2}
+  - {type: punctuation, offset: 1144, content: ), id: KR4d0048_krp_025-bkkpn3}
+  - {type: 'kr:newline', offset: 1144, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl79}
+  - {type: page-break, offset: 1144, content: '', id: KR4d0048_SBCK_025-5a}
+  - {type: 'kr:newline', offset: 1144, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl80}
+  - {type: line-break, offset: 1144, content: '', id: KR4d0048_SBCK_025-5a01}
+  - {type: 'kr:newline', offset: 1162, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl81}
+  - {type: line-break, offset: 1162, content: '', id: KR4d0048_SBCK_025-5a02}
+  - {type: variant, offset: 1171, length: 1, content: 略, WYG: 畧}
+  - {type: 'kr:newline', offset: 1180, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl82}
+  - {type: line-break, offset: 1180, content: '', id: KR4d0048_SBCK_025-5a03}
+  - {type: 'kr:newline', offset: 1198, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl83}
+  - {type: line-break, offset: 1198, content: '', id: KR4d0048_SBCK_025-5a04}
+  - {type: 'kr:newline', offset: 1216, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl84}
+  - {type: line-break, offset: 1216, content: '', id: KR4d0048_SBCK_025-5a05}
+  - {type: 'kr:newline', offset: 1234, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl85}
+  - {type: line-break, offset: 1234, content: '', id: KR4d0048_SBCK_025-5a06}
+  - {type: page-break, offset: 1238, content: '', id: KR4d0048_WYG_025-5a, image: WYG1096/WYG1096-0705c.png}
+  - {type: variant, offset: 1242, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1252, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl86}
+  - {type: line-break, offset: 1252, content: '', id: KR4d0048_SBCK_025-5a07}
+  - {type: variant, offset: 1257, length: 1, content: 微, WYG: 㣲}
+  - {type: 'kr:newline', offset: 1270, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl87}
+  - {type: line-break, offset: 1270, content: '', id: KR4d0048_SBCK_025-5a08}
+  - {type: 'kr:newline', offset: 1288, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl88}
+  - {type: line-break, offset: 1288, content: '', id: KR4d0048_SBCK_025-5a09}
+  - {type: 'kr:newline', offset: 1306, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl89}
+  - {type: page-break, offset: 1306, content: '', id: KR4d0048_SBCK_025-5b}
+  - {type: 'kr:newline', offset: 1306, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl90}
+  - {type: line-break, offset: 1306, content: '', id: KR4d0048_SBCK_025-5b01}
+  - {type: 'kr:newline', offset: 1324, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl91}
+  - {type: line-break, offset: 1324, content: '', id: KR4d0048_SBCK_025-5b02}
+  - {type: 'kr:newline', offset: 1328, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl92}
+  - {type: line-break, offset: 1328, content: '', id: KR4d0048_SBCK_025-5b03}
+  - {type: indent, offset: 1328, content: 　　　, id: KR4d0048_krp_025-bkkind19}
+  - {type: 'kr:newline', offset: 1332, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl93}
+  - {type: line-break, offset: 1332, content: '', id: KR4d0048_SBCK_025-5b04}
+  - {type: variant, offset: 1338, length: 1, content: 土, SBCK: 􅁟}
+  - {type: 'kr:newline', offset: 1350, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl94}
+  - {type: line-break, offset: 1350, content: '', id: KR4d0048_SBCK_025-5b05}
+  - {type: variant, offset: 1359, length: 1, content: 潤, SBCK: 􅃳}
+  - {type: 'kr:newline', offset: 1368, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl95}
+  - {type: line-break, offset: 1368, content: '', id: KR4d0048_SBCK_025-5b06}
+  - {type: page-break, offset: 1374, content: '', id: KR4d0048_WYG_025-5b, image: WYG1096/WYG1096-0705d.png}
+  - {type: 'kr:newline', offset: 1386, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl96}
+  - {type: line-break, offset: 1386, content: '', id: KR4d0048_SBCK_025-5b07}
+  - {type: variant, offset: 1403, length: 1, content: 慘, SBCK: 􅃤}
+  - {type: 'kr:newline', offset: 1404, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl97}
+  - {type: line-break, offset: 1404, content: '', id: KR4d0048_SBCK_025-5b08}
+  - {type: variant, offset: 1411, length: 1, content: 絕, WYG: 絶}
+  - {type: variant, offset: 1420, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1422, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl98}
+  - {type: line-break, offset: 1422, content: '', id: KR4d0048_SBCK_025-5b09}
+  - {type: 'kr:newline', offset: 1440, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl99}
+  - {type: page-break, offset: 1440, content: '', id: KR4d0048_SBCK_025-6a}
+  - {type: 'kr:newline', offset: 1440, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl100}
+  - {type: line-break, offset: 1440, content: '', id: KR4d0048_SBCK_025-6a01}
+  - {type: 'kr:newline', offset: 1458, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl101}
+  - {type: line-break, offset: 1458, content: '', id: KR4d0048_SBCK_025-6a02}
+  - {type: variant, offset: 1470, length: 1, content: 閱, WYG: 閲}
+  - {type: 'kr:newline', offset: 1476, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl102}
+  - {type: line-break, offset: 1476, content: '', id: KR4d0048_SBCK_025-6a03}
+  - {type: 'kr:newline', offset: 1494, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl103}
+  - {type: line-break, offset: 1494, content: '', id: KR4d0048_SBCK_025-6a04}
+  - {type: variant, offset: 1502, length: 1, content: 喝, WYG: 唱}
+  - {type: 'kr:newline', offset: 1512, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl104}
+  - {type: line-break, offset: 1512, content: '', id: KR4d0048_SBCK_025-6a05}
+  - {type: 'kr:newline', offset: 1530, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl105}
+  - {type: line-break, offset: 1530, content: '', id: KR4d0048_SBCK_025-6a06}
+  - {type: variant, offset: 1536, length: 1, content: 關, WYG: 闗}
+  - {type: variant, offset: 1537, length: 1, content: 鋪, WYG: 舖}
+  - {type: variant, offset: 1540, length: 1, content: 爲, WYG: 為}
+  - {type: page-break, offset: 1542, content: '', id: KR4d0048_WYG_025-6a, image: WYG1096/WYG1096-0706a.png}
+  - {type: 'kr:newline', offset: 1548, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl106}
+  - {type: line-break, offset: 1548, content: '', id: KR4d0048_SBCK_025-6a07}
+  - {type: 'kr:newline', offset: 1566, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl107}
+  - {type: line-break, offset: 1566, content: '', id: KR4d0048_SBCK_025-6a08}
+  - {type: variant, offset: 1571, length: 1, content: 携, WYG: 攜}
+  - {type: variant, offset: 1577, length: 1, content: 属, WYG: 屬}
+  - {type: 'kr:newline', offset: 1584, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl108}
+  - {type: line-break, offset: 1584, content: '', id: KR4d0048_SBCK_025-6a09}
+  - {type: variant, offset: 1595, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1602, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl109}
+  - {type: page-break, offset: 1602, content: '', id: KR4d0048_SBCK_025-6b}
+  - {type: 'kr:newline', offset: 1602, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl110}
+  - {type: line-break, offset: 1602, content: '', id: KR4d0048_SBCK_025-6b01}
+  - {type: variant, offset: 1615, length: 1, content: 巳, WYG: 已}
+  - {type: 'kr:newline', offset: 1620, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl111}
+  - {type: line-break, offset: 1620, content: '', id: KR4d0048_SBCK_025-6b02}
+  - {type: 'kr:newline', offset: 1638, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl112}
+  - {type: line-break, offset: 1638, content: '', id: KR4d0048_SBCK_025-6b03}
+  - {type: variant, offset: 1641, length: 1, content: 巳, WYG: 已}
+  - {type: variant, offset: 1647, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1656, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl113}
+  - {type: line-break, offset: 1656, content: '', id: KR4d0048_SBCK_025-6b04}
+  - {type: variant, offset: 1662, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1674, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl114}
+  - {type: line-break, offset: 1674, content: '', id: KR4d0048_SBCK_025-6b05}
+  - {type: 'kr:newline', offset: 1689, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl115}
+  - {type: line-break, offset: 1689, content: '', id: KR4d0048_SBCK_025-6b06}
+  - {type: indent, offset: 1689, content: 　　　, id: KR4d0048_krp_025-bkkind20}
+  - {type: 'kr:newline', offset: 1695, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl116}
+  - {type: line-break, offset: 1695, content: '', id: KR4d0048_SBCK_025-6b07}
+  - {type: page-break, offset: 1695, content: '', id: KR4d0048_WYG_025-6b, image: WYG1096/WYG1096-0706b.png}
+  - {type: variant, offset: 1706, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 1713, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl117}
+  - {type: line-break, offset: 1713, content: '', id: KR4d0048_SBCK_025-6b08}
+  - {type: variant, offset: 1715, length: 1, content: 瑣, SBCK: 􅃈}
+  - {type: variant, offset: 1723, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 1724, length: 1, content: 類, SBCK: 􅀋}
+  - {type: 'kr:newline', offset: 1731, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl118}
+  - {type: line-break, offset: 1731, content: '', id: KR4d0048_SBCK_025-6b09}
+  - {type: variant, offset: 1733, length: 1, content: 冨, WYG: 富}
+  - {type: variant, offset: 1734, length: 1, content: 偏, WYG: 徧}
+  - {type: variant, offset: 1739, length: 1, content: 悅, WYG: 悦}
+  - {type: 'kr:newline', offset: 1749, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl119}
+  - {type: page-break, offset: 1749, content: '', id: KR4d0048_SBCK_025-7a}
+  - {type: 'kr:newline', offset: 1749, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl120}
+  - {type: line-break, offset: 1749, content: '', id: KR4d0048_SBCK_025-7a01}
+  - {type: variant, offset: 1750, length: 1, content: 艶, WYG: 艷}
+  - {type: 'kr:newline', offset: 1767, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl121}
+  - {type: line-break, offset: 1767, content: '', id: KR4d0048_SBCK_025-7a02}
+  - {type: variant, offset: 1770, length: 1, content: 孤, SBCK: 􅀌}
+  - {type: variant, offset: 1772, length: 1, content: 閑, WYG: 閒}
+  - {type: variant, offset: 1777, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 1780, length: 1, content: 淸, WYG: 清}
+  - {type: 'kr:newline', offset: 1785, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl122}
+  - {type: line-break, offset: 1785, content: '', id: KR4d0048_SBCK_025-7a03}
+  - {type: variant, offset: 1790, length: 1, content: 苐, WYG: 第}
+  - {type: 'kr:newline', offset: 1803, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl123}
+  - {type: line-break, offset: 1803, content: '', id: KR4d0048_SBCK_025-7a04}
+  - {type: variant, offset: 1814, length: 1, content: 曆, WYG: 厯}
+  - {type: 'kr:newline', offset: 1821, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl124}
+  - {type: line-break, offset: 1821, content: '', id: KR4d0048_SBCK_025-7a05}
+  - {type: variant, offset: 1827, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: 'kr:newline', offset: 1839, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl125}
+  - {type: line-break, offset: 1839, content: '', id: KR4d0048_SBCK_025-7a06}
+  - {type: variant, offset: 1843, length: 1, content: 飮, WYG: 飲}
+  - {type: 'kr:newline', offset: 1857, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl126}
+  - {type: line-break, offset: 1857, content: '', id: KR4d0048_SBCK_025-7a07}
+  - {type: page-break, offset: 1863, content: '', id: KR4d0048_WYG_025-7a, image: WYG1096/WYG1096-0706c.png}
+  - {type: 'kr:newline', offset: 1875, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl127}
+  - {type: line-break, offset: 1875, content: '', id: KR4d0048_SBCK_025-7a08}
+  - {type: variant, offset: 1890, length: 1, content: 㑹, WYG: 會}
+  - {type: 'kr:newline', offset: 1893, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl128}
+  - {type: line-break, offset: 1893, content: '', id: KR4d0048_SBCK_025-7a09}
+  - {type: variant, offset: 1898, length: 1, content: 閱, WYG: 閲}
+  - {type: 'kr:newline', offset: 1911, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl129}
+  - {type: page-break, offset: 1911, content: '', id: KR4d0048_SBCK_025-7b}
+  - {type: 'kr:newline', offset: 1911, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl130}
+  - {type: line-break, offset: 1911, content: '', id: KR4d0048_SBCK_025-7b01}
+  - {type: 'kr:newline', offset: 1929, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl131}
+  - {type: line-break, offset: 1929, content: '', id: KR4d0048_SBCK_025-7b02}
+  - {type: variant, offset: 1942, length: 1, content: 牙, WYG: 互}
+  - {type: 'kr:newline', offset: 1947, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl132}
+  - {type: line-break, offset: 1947, content: '', id: KR4d0048_SBCK_025-7b03}
+  - {type: 'kr:newline', offset: 1965, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl133}
+  - {type: line-break, offset: 1965, content: '', id: KR4d0048_SBCK_025-7b04}
+  - {type: variant, offset: 1976, length: 1, content: 邃, SBCK: 􅃉}
+  - {type: 'kr:newline', offset: 1983, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl134}
+  - {type: line-break, offset: 1983, content: '', id: KR4d0048_SBCK_025-7b05}
+  - {type: variant, offset: 1984, length: 1, content: 絕, WYG: 絶}
+  - {type: variant, offset: 1986, length: 1, content: 辟, WYG: 僻}
+  - {type: variant, offset: 1997, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2001, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl135}
+  - {type: line-break, offset: 2001, content: '', id: KR4d0048_SBCK_025-7b06}
+  - {type: 'kr:newline', offset: 2019, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl136}
+  - {type: line-break, offset: 2019, content: '', id: KR4d0048_SBCK_025-7b07}
+  - {type: page-break, offset: 2031, content: '', id: KR4d0048_WYG_025-7b, image: WYG1096/WYG1096-0706d.png}
+  - {type: 'kr:newline', offset: 2037, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl137}
+  - {type: line-break, offset: 2037, content: '', id: KR4d0048_SBCK_025-7b08}
+  - {type: variant, offset: 2039, length: 1, content: 負, SBCK: 􅀒}
+  - {type: 'kr:newline', offset: 2055, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl138}
+  - {type: line-break, offset: 2055, content: '', id: KR4d0048_SBCK_025-7b09}
+  - {type: 'kr:newline', offset: 2073, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl139}
+  - {type: page-break, offset: 2073, content: '', id: KR4d0048_SBCK_025-8a}
+  - {type: 'kr:newline', offset: 2073, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl140}
+  - {type: line-break, offset: 2073, content: '', id: KR4d0048_SBCK_025-8a01}
+  - {type: variant, offset: 2084, length: 1, content: 兹, WYG: 茲}
+  - {type: variant, offset: 2088, length: 1, content: 甞, WYG: 嘗}
+  - {type: 'kr:newline', offset: 2091, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl141}
+  - {type: line-break, offset: 2091, content: '', id: KR4d0048_SBCK_025-8a02}
+  - {type: variant, offset: 2091, length: 1, content: 爲, WYG: 為職者}
+  - {type: variant, offset: 2093, length: 2, content: 者議, WYG: ''}
+  - {type: 'kr:newline', offset: 2106, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl142}
+  - {type: line-break, offset: 2106, content: '', id: KR4d0048_SBCK_025-8a03}
+  - {type: indent, offset: 2106, content: 　　　, id: KR4d0048_krp_025-bkkind21}
+  - {type: 'kr:newline', offset: 2110, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl143}
+  - {type: line-break, offset: 2110, content: '', id: KR4d0048_SBCK_025-8a04}
+  - {type: variant, offset: 2121, length: 1, content: 叙, WYG: 敘}
+  - {type: variant, offset: 2124, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2128, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl144}
+  - {type: line-break, offset: 2128, content: '', id: KR4d0048_SBCK_025-8a05}
+  - {type: variant, offset: 2131, length: 1, content: 未, WYG: 末}
+  - {type: variant, offset: 2136, length: 1, content: 戯, WYG: 戲}
+  - {type: 'kr:newline', offset: 2146, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl145}
+  - {type: line-break, offset: 2146, content: '', id: KR4d0048_SBCK_025-8a06}
+  - {type: variant, offset: 2154, length: 1, content: 關, WYG: 闗}
+  - {type: variant, offset: 2158, length: 1, content: 類, SBCK: 􅀋}
+  - {type: 'kr:newline', offset: 2164, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl146}
+  - {type: line-break, offset: 2164, content: '', id: KR4d0048_SBCK_025-8a07}
+  - {type: page-break, offset: 2173, content: '', id: KR4d0048_WYG_025-8a, image: WYG1096/WYG1096-0707a.png}
+  - {type: variant, offset: 2179, length: 1, content: 豳, SBCK: 􅃎}
+  - {type: 'kr:newline', offset: 2182, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl147}
+  - {type: line-break, offset: 2182, content: '', id: KR4d0048_SBCK_025-8a08}
+  - {type: variant, offset: 2192, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2200, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl148}
+  - {type: line-break, offset: 2200, content: '', id: KR4d0048_SBCK_025-8a09}
+  - {type: 'kr:newline', offset: 2218, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl149}
+  - {type: page-break, offset: 2218, content: '', id: KR4d0048_SBCK_025-8b}
+  - {type: 'kr:newline', offset: 2218, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl150}
+  - {type: line-break, offset: 2218, content: '', id: KR4d0048_SBCK_025-8b01}
+  - {type: 'kr:newline', offset: 2236, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl151}
+  - {type: line-break, offset: 2236, content: '', id: KR4d0048_SBCK_025-8b02}
+  - {type: variant, offset: 2246, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 2250, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2254, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl152}
+  - {type: line-break, offset: 2254, content: '', id: KR4d0048_SBCK_025-8b03}
+  - {type: variant, offset: 2268, length: 1, content: 爲, WYG: 為}
+  - {type: variant, offset: 2270, length: 1, content: 戯, WYG: 戲}
+  - {type: 'kr:newline', offset: 2272, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl153}
+  - {type: line-break, offset: 2272, content: '', id: KR4d0048_SBCK_025-8b04}
+  - {type: 'kr:newline', offset: 2290, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl154}
+  - {type: line-break, offset: 2290, content: '', id: KR4d0048_SBCK_025-8b05}
+  - {type: 'kr:newline', offset: 2308, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl155}
+  - {type: line-break, offset: 2308, content: '', id: KR4d0048_SBCK_025-8b06}
+  - {type: variant, offset: 2320, length: 1, content: 或, WYG: 戎}
+  - {type: 'kr:newline', offset: 2326, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl156}
+  - {type: line-break, offset: 2326, content: '', id: KR4d0048_SBCK_025-8b07}
+  - {type: variant, offset: 2332, length: 1, content: 嗜, SBCK: 􅄝}
+  - {type: page-break, offset: 2341, content: '', id: KR4d0048_WYG_025-8b, image: WYG1096/WYG1096-0707b.png}
+  - {type: 'kr:newline', offset: 2344, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl157}
+  - {type: line-break, offset: 2344, content: '', id: KR4d0048_SBCK_025-8b08}
+  - {type: 'kr:newline', offset: 2360, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl158}
+  - {type: line-break, offset: 2360, content: '', id: KR4d0048_SBCK_025-8b09}
+  - {type: indent, offset: 2360, content: 　　　, id: KR4d0048_krp_025-bkkind22}
+  - {type: 'kr:newline', offset: 2366, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl159}
+  - {type: page-break, offset: 2366, content: '', id: KR4d0048_SBCK_025-9a}
+  - {type: 'kr:newline', offset: 2366, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl160}
+  - {type: line-break, offset: 2366, content: '', id: KR4d0048_SBCK_025-9a01}
+  - {type: 'kr:newline', offset: 2384, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl161}
+  - {type: line-break, offset: 2384, content: '', id: KR4d0048_SBCK_025-9a02}
+  - {type: variant, offset: 2392, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2402, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl162}
+  - {type: line-break, offset: 2402, content: '', id: KR4d0048_SBCK_025-9a03}
+  - {type: 'kr:newline', offset: 2420, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl163}
+  - {type: line-break, offset: 2420, content: '', id: KR4d0048_SBCK_025-9a04}
+  - {type: variant, offset: 2425, length: 1, content: 巳, WYG: 已}
+  - {type: variant, offset: 2437, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2438, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl164}
+  - {type: line-break, offset: 2438, content: '', id: KR4d0048_SBCK_025-9a05}
+  - {type: variant, offset: 2443, length: 1, content: 乆, WYG: 久}
+  - {type: 'kr:newline', offset: 2456, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl165}
+  - {type: line-break, offset: 2456, content: '', id: KR4d0048_SBCK_025-9a06}
+  - {type: 'kr:newline', offset: 2474, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl166}
+  - {type: line-break, offset: 2474, content: '', id: KR4d0048_SBCK_025-9a07}
+  - {type: variant, offset: 2485, length: 1, content: 卿, SBCK: 􅀸}
+  - {type: 'kr:newline', offset: 2492, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl167}
+  - {type: line-break, offset: 2492, content: '', id: KR4d0048_SBCK_025-9a08}
+  - {type: page-break, offset: 2492, content: '', id: KR4d0048_WYG_025-9a, image: WYG1096/WYG1096-0707c.png}
+  - {type: 'kr:newline', offset: 2510, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl168}
+  - {type: line-break, offset: 2510, content: '', id: KR4d0048_SBCK_025-9a09}
+  - {type: 'kr:newline', offset: 2528, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl169}
+  - {type: page-break, offset: 2528, content: '', id: KR4d0048_SBCK_025-9b}
+  - {type: 'kr:newline', offset: 2528, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl170}
+  - {type: line-break, offset: 2528, content: '', id: KR4d0048_SBCK_025-9b01}
+  - {type: variant, offset: 2530, length: 1, content: 嗜, SBCK: 􅄝}
+  - {type: 'kr:newline', offset: 2546, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl171}
+  - {type: line-break, offset: 2546, content: '', id: KR4d0048_SBCK_025-9b02}
+  - {type: 'kr:newline', offset: 2564, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl172}
+  - {type: line-break, offset: 2564, content: '', id: KR4d0048_SBCK_025-9b03}
+  - {type: variant, offset: 2564, length: 1, content: 楫, WYG: 揖}
+  - {type: variant, offset: 2568, length: 1, content: 爲, WYG: 為}
+  - {type: punctuation, offset: 2576, content: (, id: KR4d0048_krp_025-bkkpn4}
+  - {type: variant, offset: 2576, length: 3, content: 濮上諱, WYG: 讓}
+  - {type: punctuation, offset: 2578, content: /, id: KR4d0048_krp_025-bkkpn5}
+  - {type: punctuation, offset: 2579, content: ), id: KR4d0048_krp_025-bkkpn6}
+  - {type: 'kr:newline', offset: 2584, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl173}
+  - {type: line-break, offset: 2584, content: '', id: KR4d0048_SBCK_025-9b04}
+  - {type: 'kr:newline', offset: 2598, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl174}
+  - {type: line-break, offset: 2598, content: '', id: KR4d0048_SBCK_025-9b05}
+  - {type: indent, offset: 2598, content: 　　　, id: KR4d0048_krp_025-bkkind23}
+  - {type: 'kr:newline', offset: 2604, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl175}
+  - {type: line-break, offset: 2604, content: '', id: KR4d0048_SBCK_025-9b06}
+  - {type: variant, offset: 2618, length: 1, content: 㤗, WYG: 泰}
+  - {type: 'kr:newline', offset: 2622, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl176}
+  - {type: line-break, offset: 2622, content: '', id: KR4d0048_SBCK_025-9b07}
+  - {type: variant, offset: 2623, length: 1, content: 內, WYG: 内}
+  - {type: variant, offset: 2634, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2640, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl177}
+  - {type: line-break, offset: 2640, content: '', id: KR4d0048_SBCK_025-9b08}
+  - {type: variant, offset: 2643, length: 1, content: 穪, WYG: 稱}
+  - {type: page-break, offset: 2646, content: '', id: KR4d0048_WYG_025-9b, image: WYG1096/WYG1096-0707d.png}
+  - {type: 'kr:newline', offset: 2658, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl178}
+  - {type: line-break, offset: 2658, content: '', id: KR4d0048_SBCK_025-9b09}
+  - {type: 'kr:newline', offset: 2676, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl179}
+  - {type: page-break, offset: 2676, content: '', id: KR4d0048_SBCK_025-10a}
+  - {type: 'kr:newline', offset: 2676, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl180}
+  - {type: line-break, offset: 2676, content: '', id: KR4d0048_SBCK_025-10a01}
+  - {type: variant, offset: 2678, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2694, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl181}
+  - {type: line-break, offset: 2694, content: '', id: KR4d0048_SBCK_025-10a02}
+  - {type: variant, offset: 2703, length: 1, content: 暴, SBCK: 􅁀}
+  - {type: variant, offset: 2710, length: 1, content: 甞, WYG: 嘗}
+  - {type: 'kr:newline', offset: 2712, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl182}
+  - {type: line-break, offset: 2712, content: '', id: KR4d0048_SBCK_025-10a03}
+  - {type: variant, offset: 2719, length: 1, content: 穪, WYG: 稱}
+  - {type: 'kr:newline', offset: 2730, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl183}
+  - {type: line-break, offset: 2730, content: '', id: KR4d0048_SBCK_025-10a04}
+  - {type: variant, offset: 2740, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2748, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl184}
+  - {type: line-break, offset: 2748, content: '', id: KR4d0048_SBCK_025-10a05}
+  - {type: variant, offset: 2756, length: 1, content: 爲, WYG: 為}
+  - {type: 'kr:newline', offset: 2760, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl185}
+  - {type: line-break, offset: 2760, content: '', id: KR4d0048_SBCK_025-10a06}
+  - {type: variant, offset: 2763, length: 1, content: 卷, WYG: 巻}
+  - {type: variant, offset: 2767, length: 1, content: 終, WYG: ''}
+  - {type: 'kr:newline', offset: 2768, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl186}
+  - {type: page-break, offset: 2768, content: '', id: KR4d0048_SBCK_025-10b}
+  - {type: 'kr:newline', offset: 2768, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl187}
+  - {type: page-break, offset: 2768, content: '', id: KR4d0048_SBCK_025-10b}
+  - {type: 'kr:newline', offset: 2768, content: '
+
+      ', id: KR4d0048_krp_025-bkkkrnewl188}
+  back: []
+hash: sha256:ca25f169e3da84b1f448e7df8f8cb3d84b8b3adebf2b8c63d189f443ad8498b3
