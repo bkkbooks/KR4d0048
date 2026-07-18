@@ -1010,6 +1010,7 @@ markers:
   - {type: line-break, offset: 2056, content: '', id: KR4d0048_SBCK_011-9b05}
   - {type: indent, offset: 2056, content: 　　　, id: KR4d0048_krp_011-bkkind48}
   - {type: punctuation, offset: 2060, content: (, id: KR4d0048_krp_011-bkkpn1}
+  - {type: voice, offset: 2060, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 2065, content: /, id: KR4d0048_krp_011-bkkpn2}
   - {type: punctuation, offset: 2069, content: ), id: KR4d0048_krp_011-bkkpn3}
   - {type: 'kr:newline', offset: 2069, content: '
@@ -1067,6 +1068,7 @@ markers:
       ', id: KR4d0048_krp_011-bkkkrnewl184}
   - {type: line-break, offset: 2181, content: '', id: KR4d0048_SBCK_011-10a05}
   - {type: punctuation, offset: 2183, content: (, id: KR4d0048_krp_011-bkkpn4}
+  - {type: voice, offset: 2183, length: 10, name: note, id: n2}
   - {type: substitution, offset: 2185, original: 逕, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16737}}
   - {type: punctuation, offset: 2188, content: /, id: KR4d0048_krp_011-bkkpn5}
   - {type: substitution, offset: 2190, original: 逕, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16737}}
@@ -1524,6 +1526,7 @@ markers:
   - {type: indent, offset: 3083, content: 　　　, id: KR4d0048_krp_011-bkkind69}
   - {type: variant, offset: 3084, length: 1, content: 笑, SBCK: 􅀏}
   - {type: punctuation, offset: 3087, content: (, id: KR4d0048_krp_011-bkkpn7}
+  - {type: voice, offset: 3087, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3089, content: ), id: KR4d0048_krp_011-bkkpn8}
   - {type: 'kr:newline', offset: 3089, content: '
 
@@ -1680,4 +1683,4 @@ markers:
 
       ', id: KR4d0048_krp_011-bkkkrnewl295}
   back: []
-hash: sha256:fe9deb4c6b66bef67f8ffbf3dfa0f9d17de5a3a199652de4f51c1bf8f8684e70
+hash: sha256:a93e6f2f96af55b05486a00f9644d6b709dc8c4286646c022960870342cb32e2

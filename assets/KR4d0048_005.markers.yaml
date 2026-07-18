@@ -548,6 +548,7 @@ markers:
   - {type: line-break, offset: 1188, content: '', id: KR4d0048_SBCK_005-5b04}
   - {type: substitution, offset: 1191, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: punctuation, offset: 1195, content: (, id: KR4d0048_krp_005-bkkpn1}
+  - {type: voice, offset: 1195, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1197, content: /, id: KR4d0048_krp_005-bkkpn2}
   - {type: punctuation, offset: 1199, content: ), id: KR4d0048_krp_005-bkkpn3}
   - {type: variant, offset: 1199, length: 1, content: 遠, WYG: 逺}
@@ -558,6 +559,7 @@ markers:
   - {type: line-break, offset: 1208, content: '', id: KR4d0048_SBCK_005-5b05}
   - {type: punctuation, offset: 1214, content: (, id: KR4d0048_krp_005-bkkpn4}
   - {type: variant, offset: 1214, length: 1, content: 履, SBCK: 􅂂}
+  - {type: voice, offset: 1214, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 1219, content: /, id: KR4d0048_krp_005-bkkpn5}
   - {type: punctuation, offset: 1223, content: ), id: KR4d0048_krp_005-bkkpn6}
   - {type: variant, offset: 1227, length: 1, content: 籟, SBCK: 􅄜}
@@ -821,6 +823,7 @@ markers:
   - {type: indent, offset: 1820, content: 　　　, id: KR4d0048_krp_005-bkkind33}
   - {type: page-break, offset: 1820, content: '', id: KR4d0048_WYG_005-7b, image: WYG1096/WYG1096-0585d.png}
   - {type: punctuation, offset: 1822, content: (, id: KR4d0048_krp_005-bkkpn7}
+  - {type: voice, offset: 1822, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 1827, content: /, id: KR4d0048_krp_005-bkkpn8}
   - {type: punctuation, offset: 1831, content: ), id: KR4d0048_krp_005-bkkpn9}
   - {type: 'kr:newline', offset: 1831, content: '
@@ -1559,6 +1562,7 @@ markers:
   - {type: variant, offset: 3292, length: 0, content: '', WYG: 閬州東園十詠}
   - {type: punctuation, offset: 3295, content: (, id: KR4d0048_krp_005-bkkpn10}
   - {type: variant, offset: 3295, length: 6, content: 閬州東圍十詠, WYG: ''}
+  - {type: voice, offset: 3295, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 3301, content: ), id: KR4d0048_krp_005-bkkpn11}
   - {type: 'kr:newline', offset: 3301, content: '
 
@@ -1740,4 +1744,4 @@ markers:
 
       ', id: KR4d0048_krp_005-bkkkrnewl305}
   back: []
-hash: sha256:c18be682b0f33f99f368faac2e325fea1cd3098e4238f4caa0a04a8bc5eda42d
+hash: sha256:2fdf01fc07358680fcc4025fa5e27689ba8edd81da020a0d18f318485f66775b

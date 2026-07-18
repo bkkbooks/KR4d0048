@@ -1252,6 +1252,7 @@ markers:
       ', id: KR4d0048_krp_037-bkkkrnewl207}
   - {type: line-break, offset: 3189, content: '', id: KR4d0048_SBCK_037-11a08}
   - {type: punctuation, offset: 3202, content: (, id: KR4d0048_krp_037-bkkpn1}
+  - {type: voice, offset: 3202, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3203, content: /, id: KR4d0048_krp_037-bkkpn2}
   - {type: punctuation, offset: 3204, content: ), id: KR4d0048_krp_037-bkkpn3}
   - {type: variant, offset: 3207, length: 1, content: 爲, WYG: 為}
@@ -1445,4 +1446,4 @@ markers:
   - {type: variant, offset: 3695, length: 0, content: '', WYG: 嬉以享乎夀祺以太華之隂而為之歸兹世之所希兮丹淵集卷三十七}
   - {type: page-break, offset: 3695, content: '', id: KR4d0048_WYG_037-12b, image: WYG1096/WYG1096-0777b.png}
   back: []
-hash: sha256:56eeb8a6f11c6851fdeed1ed7f893929676c3168adfc2f2496a401a4d34a09e1
+hash: sha256:517fafb5968da9f77cc6f95f68f044bc182d76bc5718544232dd84edd29f308b

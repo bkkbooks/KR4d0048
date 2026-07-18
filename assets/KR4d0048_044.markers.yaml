@@ -88,6 +88,7 @@ markers:
   - {type: line-break, offset: 115, content: '', id: KR4d0048_SBCK_044-1b03}
   - {type: variant, offset: 118, length: 99, content: 年甲申是歲按實錄文潞公除樞宻直學士知益州七年擢諫議大夫入政府按先生墓誌潞公守成都譽公所䞇文字以示府學學者一時稱慕之必在是年或五年六年之間也皇祐元年己丑是歲先生登進士第按登科記皇祐元年三月策進士馮京以, WYG: 庫全書丹淵集拾遺卷}
   - {type: punctuation, offset: 119, content: (, id: KR4d0048_krp_044-bkkpn1}
+  - {type: voice, offset: 119, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 121, content: ), id: KR4d0048_krp_044-bkkpn2}
   - {type: 'kr:newline', offset: 121, content: '
 
@@ -427,6 +428,7 @@ markers:
       ', id: KR4d0048_krp_044-bkkkrnewl71}
   - {type: line-break, offset: 869, content: '', id: KR4d0048_SBCK_044-4b02}
   - {type: punctuation, offset: 869, content: (, id: KR4d0048_krp_044-bkkpn3}
+  - {type: voice, offset: 869, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 870, content: /, id: KR4d0048_krp_044-bkkpn4}
   - {type: punctuation, offset: 871, content: ), id: KR4d0048_krp_044-bkkpn5}
   - {type: substitution, offset: 875, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
@@ -1132,6 +1134,7 @@ markers:
   - {type: substitution, offset: 2698, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 2699, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 2701, content: (, id: KR4d0048_krp_044-bkkpn6}
+  - {type: voice, offset: 2701, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2702, content: /, id: KR4d0048_krp_044-bkkpn7}
   - {type: punctuation, offset: 2703, content: ), id: KR4d0048_krp_044-bkkpn8}
   - {type: 'kr:newline', offset: 2705, content: '
@@ -1182,6 +1185,7 @@ markers:
   - {type: line-break, offset: 2766, content: '', id: KR4d0048_SBCK_044-11b07}
   - {type: indent, offset: 2766, content: 　, id: KR4d0048_krp_044-bkkind121}
   - {type: punctuation, offset: 2770, content: (, id: KR4d0048_krp_044-bkkpn9}
+  - {type: voice, offset: 2770, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2771, content: /, id: KR4d0048_krp_044-bkkpn10}
   - {type: punctuation, offset: 2772, content: ), id: KR4d0048_krp_044-bkkpn11}
   - {type: 'kr:newline', offset: 2783, content: '
@@ -1743,4 +1747,4 @@ markers:
 
       ', id: KR4d0048_krp_044-bkkkrnewl318}
   back: []
-hash: sha256:8b9f4fa5e20201fe502c7cc23cd122728c2b9f26af35b34b154e14cf183feb0a
+hash: sha256:980ab7ec41d2e2ca657f35b791afdc02d65a0f669e2cb0896754a23fb090258f

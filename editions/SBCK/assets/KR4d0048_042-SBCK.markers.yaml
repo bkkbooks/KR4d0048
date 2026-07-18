@@ -47,6 +47,7 @@ markers:
   - {type: line-break, offset: 28, content: '', id: KR4d0048_SBCK_042-1a07}
   - {type: indent, offset: 28, content: 　　　, id: KR4d0048_SBCK_042-bkkind15}
   - {type: punctuation, offset: 33, content: (, id: KR4d0048_SBCK_042-bkkpn1}
+  - {type: voice, offset: 33, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 35, content: ), id: KR4d0048_SBCK_042-bkkpn2}
   - {type: 'kr:newline', offset: 35, content: '
 
@@ -124,6 +125,7 @@ markers:
       ', id: KR4d0048_SBCK_042-bkkkrnewl23}
   - {type: line-break, offset: 257, content: '', id: KR4d0048_SBCK_042-2a04}
   - {type: punctuation, offset: 258, content: (, id: KR4d0048_SBCK_042-bkkpn3}
+  - {type: voice, offset: 258, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 259, content: /, id: KR4d0048_SBCK_042-bkkpn4}
   - {type: punctuation, offset: 260, content: ), id: KR4d0048_SBCK_042-bkkpn5}
   - {type: 'kr:newline', offset: 276, content: '
@@ -209,6 +211,7 @@ markers:
   - {type: line-break, offset: 548, content: '', id: KR4d0048_SBCK_042-3a04}
   - {type: indent, offset: 548, content: 　　　, id: KR4d0048_SBCK_042-bkkind24}
   - {type: punctuation, offset: 555, content: (, id: KR4d0048_SBCK_042-bkkpn6}
+  - {type: voice, offset: 555, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 559, content: ), id: KR4d0048_SBCK_042-bkkpn7}
   - {type: 'kr:newline', offset: 559, content: '
 
@@ -551,6 +554,7 @@ markers:
   - {type: line-break, offset: 1579, content: '', id: KR4d0048_SBCK_042-7a06}
   - {type: indent, offset: 1579, content: 　　　, id: KR4d0048_SBCK_042-bkkind36}
   - {type: punctuation, offset: 1584, content: (, id: KR4d0048_SBCK_042-bkkpn8}
+  - {type: voice, offset: 1584, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 1592, content: ), id: KR4d0048_SBCK_042-bkkpn9}
   - {type: 'kr:newline', offset: 1592, content: '
 
@@ -589,4 +593,4 @@ markers:
 
       ', id: KR4d0048_SBCK_042-bkkkrnewl134}
   back: []
-hash: sha256:16548c6be4c9b0f96221d2a4f115082e1fc442905e8e418f6dc00482902da6c4
+hash: sha256:76648ee20fb75ea04fa77ad385ba7277fe1dae5e892058516b17eb68c89bf002

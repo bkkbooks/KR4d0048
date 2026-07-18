@@ -51,6 +51,7 @@ markers:
   - {type: indent, offset: 28, content: 　　　, id: KR4d0048_krp_042-bkkind15}
   - {type: punctuation, offset: 33, content: (, id: KR4d0048_krp_042-bkkpn1}
   - {type: variant, offset: 33, length: 1, content: 並, WYG: 并}
+  - {type: voice, offset: 33, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 35, content: ), id: KR4d0048_krp_042-bkkpn2}
   - {type: 'kr:newline', offset: 35, content: '
 
@@ -151,6 +152,7 @@ markers:
   - {type: line-break, offset: 257, content: '', id: KR4d0048_SBCK_042-2a04}
   - {type: page-break, offset: 257, content: '', id: KR4d0048_WYG_041-2a, image: WYG1096/WYG1096-0802a.png}
   - {type: punctuation, offset: 258, content: (, id: KR4d0048_krp_042-bkkpn3}
+  - {type: voice, offset: 258, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 259, content: /, id: KR4d0048_krp_042-bkkpn4}
   - {type: punctuation, offset: 260, content: ), id: KR4d0048_krp_042-bkkpn5}
   - {type: variant, offset: 260, length: 1, content: 忭, WYG: 抃}
@@ -283,6 +285,7 @@ markers:
   - {type: page-break, offset: 548, content: '', id: KR4d0048_WYG_041-3a, image: WYG1096/WYG1096-0802c.png}
   - {type: punctuation, offset: 555, content: (, id: KR4d0048_krp_042-bkkpn6}
   - {type: variant, offset: 555, length: 0, content: '', WYG: 二首}
+  - {type: voice, offset: 555, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 559, content: ), id: KR4d0048_krp_042-bkkpn7}
   - {type: 'kr:newline', offset: 559, content: '
 
@@ -783,6 +786,7 @@ markers:
   - {type: indent, offset: 1579, content: 　　　, id: KR4d0048_krp_042-bkkind36}
   - {type: variant, offset: 1579, length: 55, content: 贈蘭溪先生黃森字君嶠依政人南䣢黃夫子平生氣凛然吟詩舊有癖寫字近方顚可惜空山老須爲後世傳蘭溪修禊否願續永和年遊閑, WYG: 逰閒}
   - {type: punctuation, offset: 1584, content: (, id: KR4d0048_krp_042-bkkpn8}
+  - {type: voice, offset: 1584, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 1592, content: ), id: KR4d0048_krp_042-bkkpn9}
   - {type: 'kr:newline', offset: 1592, content: '
 
@@ -829,4 +833,4 @@ markers:
 
       ', id: KR4d0048_krp_042-bkkkrnewl134}
   back: []
-hash: sha256:6048ff0045d93e23b10026b9ff39f649723e00a90976e121b8f0c1f6cc8ebc2b
+hash: sha256:de1f722d0ebae356b19df50c20c39f6fad3f2a7df8c99335c53cf98daa976eac

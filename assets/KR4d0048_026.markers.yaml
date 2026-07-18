@@ -939,6 +939,7 @@ markers:
   - {type: variant, offset: 2431, length: 1, content: 鄕, WYG: 鄉}
   - {type: substitution, offset: 2431, original: 鄕, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19673}}
   - {type: punctuation, offset: 2437, content: (, id: KR4d0048_krp_026-bkkpn1}
+  - {type: voice, offset: 2437, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2438, content: /, id: KR4d0048_krp_026-bkkpn2}
   - {type: punctuation, offset: 2439, content: ), id: KR4d0048_krp_026-bkkpn3}
   - {type: variant, offset: 2442, length: 1, content: 爲, WYG: 為}
@@ -1094,4 +1095,4 @@ markers:
 
       ', id: KR4d0048_krp_026-bkkkrnewl190}
   back: []
-hash: sha256:a1ad90287bc9acd4547de47aa4b53488c3351580bb56748178f630cb00808771
+hash: sha256:e712fe01c3d8c9148c4eff8d12ae824028d228fd765cf6926146906a4ec9d26e

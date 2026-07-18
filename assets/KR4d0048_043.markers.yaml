@@ -252,6 +252,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 483, content: ■, id: KR4d0048_krp_043-bkkkrnonc1}
   - {type: variant, offset: 483, length: 0, content: '', WYG: 孔}
   - {type: punctuation, offset: 484, content: (, id: KR4d0048_krp_043-bkkpn1}
+  - {type: voice, offset: 484, length: 13, name: note, id: n1}
   - {type: punctuation, offset: 489, content: /, id: KR4d0048_krp_043-bkkpn2}
   - {type: punctuation, offset: 494, content: ), id: KR4d0048_krp_043-bkkpn3}
   - {type: 'kr:newline', offset: 494, content: '
@@ -1122,4 +1123,4 @@ markers:
 
       ', id: KR4d0048_krp_043-bkkkrnewl176}
   back: []
-hash: sha256:705b888fccf75447474958b4521417a355e8708ce64bb9ceae9291a868908422
+hash: sha256:4cdfdd2249ef03a8aeb056719636f2ea9e0adb67cb35b1d330687eac21bf387f

@@ -377,6 +377,7 @@ markers:
   - {type: substitution, offset: 848, original: 廼, replacement: 乃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16165}}
   - {type: punctuation, offset: 851, content: (, id: KR4d0048_krp_023-bkkpn1}
   - {type: variant, offset: 851, length: 4, content: 漢安王諱, WYG: 讓}
+  - {type: voice, offset: 851, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 853, content: /, id: KR4d0048_krp_023-bkkpn2}
   - {type: punctuation, offset: 855, content: ), id: KR4d0048_krp_023-bkkpn3}
   - {type: variant, offset: 861, length: 1, content: 塡, WYG: 填}
@@ -1926,4 +1927,4 @@ markers:
 
       ', id: KR4d0048_krp_023-bkkkrnewl319}
   back: []
-hash: sha256:6828465d34dd840bfced55dd4269c32d87512407622377b5f775da6377e7054d
+hash: sha256:a5a59d7b731482cf66e3bd36df5af951a49f60d1ad814e413b3a76ebe6ad5d88
